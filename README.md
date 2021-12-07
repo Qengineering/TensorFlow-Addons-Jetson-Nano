@@ -7,3 +7,8 @@ You must have TensorFlow installed on your Jetson Nano.<br/>
 For the installation guide see [Install TensorFlow 2.4.0](https://qengineering.eu/install-tensorflow-2.4.0-on-jetson-nano.html) <br/>
 ## Wheels
 Please find your **linux-aarch64** installation wheel here. The **cpXX** number refers to your Python3 version.<br/>
+
+------------
+
+[![paypal](https://qengineering.eu/images/TipJarSmall4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CPZTM5BB3FCYL) 
+
